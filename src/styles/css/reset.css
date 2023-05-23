@@ -29,6 +29,10 @@ footer {
 ul {
     list-style: none;
 }
+
+h3 {
+    text-align: center;
+}
 .card {
     align-items: center;
     margin-left: 100px;
