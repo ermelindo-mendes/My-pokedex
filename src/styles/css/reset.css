@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+img {
+    max-width: 100%;
+    margin: auto;
+    display: block;
+}
+
+.space-custom {
+    margin: 5vh 0vh;
+}
+
+footer {
+    text-align: center;
+    justify-content: center;
+    padding: 5vh 0vh;
+    font-weight: bold;
+    background-color: beige;
+}
+
+ul {
+    list-style: none;
+}
+.card {
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+}
